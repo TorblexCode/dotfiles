@@ -1,0 +1,9 @@
+[user]
+	name = Leandro Texidor Basterrechea
+	email = leandro.texidor@gmail.com
+[core]
+	editor = code
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
